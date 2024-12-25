@@ -174,9 +174,9 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ## 👨‍💻 About the Author
 
-### Andrew S. Mintah
+### Harsh Mriduhash
 
-A passionate Software Engineer and AI enthusiast based in Silicon Valley, California. Andrew specializes in building scalable web applications and integrating AI solutions to solve real-world problems.
+A passionate Software Engineer and AI enthusiast based in Delhi-NCR. Harsh specializes in building scalable web applications and integrating AI solutions to solve real-world problems.
 
 - 🌐 [GitHub](https://github.com/Harshmriduhash)
 - 🚀 Currently working on: AI-powered developer tools and SEO solutions
